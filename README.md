@@ -85,6 +85,25 @@ src/
 
 ---
 
+## 🔮 Future Scope & Scalability
+
+The current version of PrintEase is a frontend-first functional prototype. Our roadmap for full campus-wide implementation includes:
+
+1.  **Backend Integration**: 
+    - Transitioning from mock data to a robust **MERN Stack** (MongoDB, Express.js, Node.js) architecture.
+    - Implementing JWT-based secure authentication and permanent data persistence.
+2.  **Payment Gateway Integration**:
+    - Replacing the mock checkout with live **Razorpay/Stripe** API for seamless online transactions.
+    - Automated digital invoice generation and SMS receipts.
+3.  **High-Scale Deployment at VNRVJIET**:
+    - Architecting the system to handle concurrent requests from over **5,000+ active users**.
+    - Implementing a distributed server model to ensure zero downtime during peak exam hours (Assignment/Project seasons).
+4.  **Advanced Printing Features**:
+    - Multi-campus print queue management.
+    - Cloud storage integration (Google Drive/Dropbox) for direct file imports.
+
+---
+
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 

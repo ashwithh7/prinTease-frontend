@@ -9,7 +9,7 @@
 ---
 ## Live Demo
 
-[View Live App](https://vercel.com/pathakalaashwiths-projects/printease)
+[View Live App](https://printease-rouge.vercel.app/)
 
 
 ## 🌟 Key Features
